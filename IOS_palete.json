@@ -1,0 +1,38 @@
+[
+  {
+    "type": "TextField",
+    "id": "proto",
+    "text": "Texto1",
+    "strImage": "button.png",
+    "resizable": false,
+    "properties": {
+      "test": "un - String",
+      "bg": "0,0,255,255"
+    },
+    "r": {
+      "x": 0,
+      "y": 0,
+      "width": 60,
+      "height": 30
+    },
+    "strColor": "0,0,0,255"
+  },
+  {
+    "type": "Label",
+    "id": "proto",
+    "text": "Texto1",
+    "strImage": "buttonLabel.png",
+    "resizable": false,
+    "properties": {
+      "test": "un - String",
+      "bg": "255,0,0,255"
+    },
+    "r": {
+      "x": 0,
+      "y": 0,
+      "width": 154,
+      "height": 49
+    },
+    "strColor": "255,0,255,255"
+  }
+]
